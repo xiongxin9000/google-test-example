@@ -7,12 +7,12 @@ use following command to run the test
     cmake ..
 ``` 
 ```    
-    make
+    cd Google_tests
 ``` 
 ```
-    cd Google_tests
+    make
 ```   
 ```    
     Google_Tests_run
 ```
-test1.cpp is the file that used to write test code
+test*.cpp are the files that used to write test code
